@@ -15,6 +15,7 @@
                     @endif
 
                     You are logged in!
+                    <h2>Please check your information!</h2>
                 </div>
             </div>
         </div>
